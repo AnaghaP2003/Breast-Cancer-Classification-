@@ -12,7 +12,8 @@ This project uses two models for classifying breast cancer tumors (Benign or Mal
 
 Both models are evaluated on the Breast Cancer Wisconsin dataset to compare their performance.
 
-Why This Project is Useful
+Why This Project is Useful?
+
 Early and accurate classification of breast cancer is crucial for effective treatment. The project explores how machine learning and deep learning techniques can be employed to build models that help in this classification task.
 
   - Logistic Regression: Provides an interpretable model with reasonable accuracy.
@@ -23,7 +24,7 @@ Model Accuracy
   - Logistic Regression Accuracy: 97.37%
   - Neural Network Accuracy: 96.49%
     
-How to Get Started
+How to Get Started?
 
 - Clone the Repository: Download the code and ensure the required Python libraries are installed.
   
